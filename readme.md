@@ -7,5 +7,5 @@
 -> php variables
 
 |php|log|
-|-------|
+----|----
 | a | b | 
